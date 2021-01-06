@@ -1,1 +1,1 @@
-# calculator-app-python
+# Calculator App (Python)
