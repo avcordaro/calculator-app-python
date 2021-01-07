@@ -15,3 +15,5 @@ Otherwise, with Python3 installed, you can run the following commands:
 pip install PyQt5
 python src/calc_controller.py
 ```
+
+![screenshot](https://i.imgur.com/KDCLBEP.png)
